@@ -2,4 +2,4 @@
 
 ---
 
-[Open App](https://anjkrynskyi.github.io/motorcycle-concept-app/ "Open App")
+[Open App](https://akrynskyi.github.io/motorcycle-concept-app/ "Open App")
